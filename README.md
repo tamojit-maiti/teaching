@@ -9,6 +9,8 @@ Topics covered so far include
   * Introduction
   * Naive Models
   * ARIMA Models
+  * Exponential Smoothing Models
+  * Regression Models
   * Hands on Session
 * Clustering
   * KMeans
