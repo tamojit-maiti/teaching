@@ -23,4 +23,4 @@ Topics covered so far include
   * Feature Selection
   * Regularization
 * CTR Prediction Problem Overview
-  * <a> Kaggle Link to the problem href = 'https://www.kaggle.com/c/avazu-ctr-prediction' </a>
+  * <a href = 'https://www.kaggle.com/c/avazu-ctr-prediction'> Kaggle link to the problem statement </a>
