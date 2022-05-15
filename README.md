@@ -1,7 +1,7 @@
 # Teaching Materials for UOA MSDS | upGrad
 
 
-This repository contains teaching materials, namely slides and accompanying Jupyter Notebooks corresponding to the weekend lecture sessions I deliver at University of Arizona's Masters in Data Science Program in association with upGrad. 
+This repository contains teaching materials, namely slides and accompanying Jupyter Notebooks corresponding to the weekend lecture sessions I deliver at <a href = "https://www.upgrad.com/data-science-ms-uoa/"> University of Arizona's Masters in Data Science Program </a> in association with upGrad. 
 
 Topics covered so far include 
 
