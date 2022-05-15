@@ -22,3 +22,5 @@ Topics covered so far include
   * Cross Validation
   * Feature Selection
   * Regularization
+* CTR Prediction Problem Overview
+  * <a> Kaggle Link to the problem href = 'https://www.kaggle.com/c/avazu-ctr-prediction' </a>
