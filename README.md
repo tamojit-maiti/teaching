@@ -26,3 +26,5 @@ Topics covered so far include
   * Regularization
 * CTR Prediction Problem Overview
   * <a href = 'https://www.kaggle.com/c/avazu-ctr-prediction'> Kaggle link to the problem statement </a>
+  * Outline of steps to follow to solve an inbalanced classification problem
+  * Hands on Session 
