@@ -31,5 +31,5 @@ Topics covered so far include
 * Hiring Manager Session
   * Interview Questions on the previous topics
   * <a href = 'https://jamboard.google.com/d/1nz6C7qqlb5Mlx2ZRuIqOg5x5KxStOWOdw0voLNFmsqo/edit?usp=sharing'> Google Jamboard Scribbles</a>
-  * 
+  * <a href = 'https://github.com/tamojit-maiti/upgrad-teaching/blob/main/interview_questions/Hiring%20Manager%20Questions.pdf'> Interview Questions </a>
 
