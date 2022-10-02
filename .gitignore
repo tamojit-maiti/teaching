@@ -109,7 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-mlops-pyenv/
+upgrad-teaching/
 
 # Spyder project settings
 .spyderproject
