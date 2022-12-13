@@ -1,3 +1,6 @@
+[![Github All Releases](https://img.shields.io/github/downloads/tamojit-maiti/upgrad-teaching/total.svg)]()
+
+
 # Teaching Materials for UOA MSDS | upGrad
 
 
@@ -14,5 +17,3 @@ Topics covered so far include
 * Statistical Inference
 * Introduction to Pandas
 * Introduction to Python
-
-[![Github All Releases](https://img.shields.io/github/downloads/tamojit-maiti/upgrad-teaching/total.svg)]()
