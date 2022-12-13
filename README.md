@@ -15,3 +15,4 @@ Topics covered so far include
 * Introduction to Pandas
 * Introduction to Python
 
+[![Github All Releases](https://img.shields.io/github/downloads/tamojit-maiti/upgrad-teaching/total.svg)]()
