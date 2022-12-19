@@ -1,6 +1,3 @@
-[![Github All Releases](https://img.shields.io/github/downloads/tamojit-maiti/upgrad-teaching/total.svg)]()
-
-
 # Teaching Materials for UOA MSDS | upGrad
 
 
