@@ -11,8 +11,7 @@ Topics covered so far include
 * Time Series Forecasting 
 * Clustering
 * Model and Feature Selection
-* CTR Prediction Problem Overview
-  * <a href = 'https://www.kaggle.com/c/avazu-ctr-prediction'> Kaggle link to the problem statement </a>
+* Logistic Regression + Usecase
 * Hypothesis Testing
 * Statistical Inference
 * Introduction to Pandas
