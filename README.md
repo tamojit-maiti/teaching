@@ -1,4 +1,4 @@
-# Teaching Materials for UOA MSDS | upGrad
+# Teaching Materials for upGrad
 
 
 This repository contains teaching materials, namely slides and accompanying Jupyter Notebooks corresponding to the weekend lecture sessions I deliver at upGrad for the following programmes: 
